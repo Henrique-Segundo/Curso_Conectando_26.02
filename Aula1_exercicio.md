@@ -47,4 +47,21 @@ Decidido a mudar o sabor da torta de morango para chocolate.
 
 Foi decidido usar o site Design Arena para geração da nova imagem, para ver os resultados de mais de uma unica IA e para manter a lógica utilizada na aula.
 
+Prompt utilizado: 
+
+Mantenha todas as características descritas no JSON em anexo, mas troque a torta de morango por uma torta de chocolate. 
+
 #### Passo 3 - Geração da nova imagem:
+
+O design arena gerou 4 imagens com IAs diferentes, em sua maioria não se aproximam tanto da imagem inicial e apenas a primeira pode ser baixada (foi adicionada nos arquivos do projeto):
+
+1. Muse image: A torta apareceu maior e cortada
+2. GPT-image-1.5: Adicionou variso elemento e aumentou a torta
+3. Krea 2 Medium: tornou a torta em apenas uma fatia
+4. MAI-image-2.6: A imagem mais distante, adicionando pessoa humana e diversos ementos adicionais de cenário
+
+Não satisfeito com o resultado geral foi utilizado o gemini (Flash 3.6), na mesma conversa da geração do JSON, para a criação de uma nova imagem, com o seguinte prompt:
+
+Mantenha todas as características descritas no JSON gerado, mas troque a torta de morango por uma torta de chocolate. 
+
+O resultado foi muito proximo da imagem original, sendo a mais fiel a proposta de manter uma mesma imagem trocando apenas alguns elementos. 
