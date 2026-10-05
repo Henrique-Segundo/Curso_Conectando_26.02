@@ -39,8 +39,12 @@ Crie um perfil de contexto JSON profundamente detalhado e avançado para esta im
 
 Saída do JSON como um único objeto estruturado. Priorize precisão e profundidade para servir como um blueprint abrangente para modelos generativos, garantindo que todos os dados posicionais e composicionais possam ser preservados durante trocas de objetos ou ambientes.
 
-Prompt utilizado no Gemini (3.6 Flash), resultado obitido:
+Prompt utilizado no Gemini (3.6 Flash), resultado obitido no arquivo "imagemTorta.json"
 
 #### Passo 2 - Escolha e realização das modificações:
+
+Decidido a mudar o sabor da torta de morango para chocolate.
+
+Foi decidido usar o site Design Arena para geração da nova imagem, para ver os resultados de mais de uma unica IA e para manter a lógica utilizada na aula.
 
 #### Passo 3 - Geração da nova imagem:

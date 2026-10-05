@@ -1,0 +1,74 @@
+{
+  "objetos": [
+    {
+      "rotulo": "torta_de_morango",
+      "descricao": "Torta individual circular com massa podre dourada, recheio de creme branco e fatias de morango vermelho brilhante salpicadas com acucar de confeiteiro e um morango inteiro com folha verde no topo.",
+      "posicao": "primeiro_plano_centro",
+      "tamanho_relativo": "medio_grande",
+      "relacoes": "sobre prato_da_torta, em frente ao xicara_de_cafe"
+    },
+    {
+      "rotulo": "prato_da_torta",
+      "descricao": "Prato de ceramica branca em formato levemente quadrado/curvo com acabamento liso.",
+      "posicao": "primeiro_plano_inferior",
+      "tamanho_relativo": "grande",
+      "relacoes": "suporta torta_de_morango e colher_de_sobremesa"
+    },
+    {
+      "rotulo": "colher_de_sobremesa",
+      "descricao": "Colher de metal prateado reflexivo, ligeiramente desfocada no cabo.",
+      "posicao": "primeiro_plano_inferior_esquerdo",
+      "tamanho_relativo": "pequeno_medio",
+      "relacoes": "pousada ao lado esquerdo da torta_de_morango"
+    },
+    {
+      "rotulo": "xicara_de_cafe",
+      "descricao": "Xicara de ceramica branca sobre pires branco, fora de foco.",
+      "posicao": "plano_fundo_superior",
+      "tamanho_relativo": "medio_no_enquadramento",
+      "relacoes": "atras da torta_de_morango"
+    },
+    {
+      "rotulo": "colher_de_cafe",
+      "descricao": "Pequena colher de metal no pires da xicara de cafe, desfocada.",
+      "posicao": "plano_fundo_superior_esquerdo",
+      "tamanho_relativo": "pequeno",
+      "relacoes": "sobre o pires da xicara_de_cafe"
+    },
+    {
+      "rotulo": "mesa",
+      "descricao": "Superficie de madeira rustica em tons marrom-dourados.",
+      "posicao": "base_e_fundo",
+      "tamanho_relativo": "plano_de_fundo",
+      "relacoes": "sustenta todos os objetos"
+    }
+  ],
+  "ambiente": {
+    "cenario": "Mesa de cafe ou confeitaria",
+    "hora_do_dia": "Dia",
+    "iluminacao": {
+      "fonte": "Luz natural difusa",
+      "direcao": "Lateral esquerda",
+      "cor": "Neutra e suave"
+    },
+    "clima": "Achegado e acolhedor",
+    "fundo": "Mesa de madeira e louca branca desfocadas"
+  },
+  "pessoas": [],
+  "composicao": {
+    "angulo_da_camera": "Ligeiramente elevado (plano meio-alto)",
+    "enquadramento": "Plano medio fechado com foco na torta",
+    "profundidade_focal": "Profundidade de campo reduzida (bokeh no fundo)",
+    "equilibrio_visual": "Centralizado no elemento principal com linhas diagonais suaves",
+    "paleta_de_cores": ["Vermelho vibrante", "Branco ceramica", "Dourado/Bege massa", "Marrom madeira"]
+  },
+  "simbolismo_e_historia": {
+    "narrativa_implicita": "Momento relaxante de pausa para cafe e sobremesa refinada.",
+    "pistas_emocionais": "Prazer, aconchego, sofisticação simples.",
+    "elementos_simbolicos": "Sobremesa fresca como indução ao apetite e desaceleração da rotina."
+  },
+  "metadados": {
+    "estilo_imagem": "Fotografia gastronomica (Food Photography)",
+    "influencias_artisticas": "Estilo editorial de culinaria contemporanea"
+  }
+}
